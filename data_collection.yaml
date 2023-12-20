@@ -1,0 +1,8 @@
+---
+
+N: 200
+T: 100
+actionType: 1
+multiTrajectory: True
+gui_status: False
+
